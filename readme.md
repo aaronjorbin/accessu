@@ -337,6 +337,8 @@
     * http://project-open-data.github.io/
     * https://github.com/benbalter/open-sourcing-government
 
+*   Content influenced and borrowed from Ben Beltar, Open Sourcing Government CC-BY-NC
+
 *   Content: CC-BY-NC
 
 *   Code: MIT (Deck.js and slidedown.js duel GPL and MIT)
