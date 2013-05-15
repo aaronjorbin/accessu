@@ -286,9 +286,13 @@
 
 *   # Themes implement the front end
 
-*   # Plugins add functionality
+*   # Plugins add / change functionality
+
+*   # http://make.wordpress.org/accessibility/wp-accessibility-plugin/
 
 *   # Sometimes change slow / non-existent
+
+*   # Example: [WP Accessibility](http://twentythirteendemo.wordpress.com/)
 
 *   # Backwards Compatibility
 
