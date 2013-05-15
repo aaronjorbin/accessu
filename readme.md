@@ -1,6 +1,6 @@
 *	# Open Source Tools for Building Accessible Websites 
 
-*   # Open Source Citizin
+*   # Open Source Citizen
 
 *   # Freedom
 
@@ -12,7 +12,7 @@
 
 *   # Freedom to Distribute
 
-*   # Responsabilities 
+*   # Responsibilities 
 
 *   # If you see something, say something
 
@@ -36,19 +36,23 @@
 
 *   # Cathedral and the Bazaar
 
-*   # 19 guidlines
+*   # 19 guidelines
 
 *   # OSS Grows 
 
 *   # 18.5% of the top million websites use WordPress
 
-*   # You probobly already use Open Source
+*   # You probably already use Open Source
 
 *   # NVDA
 
 *   # Fire Vox
 
 *   # ChromeVox
+
+*   # Firefox
+
+*   # Chrome
 
 *   # Linux
 
@@ -86,22 +90,23 @@
 
 *   # Encourage contributors, community
 
-
 *   # Not us/them dichotomy*
 
 *   # I call it Open Source
 
 *   # Free Software
 
+*   # Free Libre Open Source Software
+
 *   # FLOSS
 
-*   # Varius Liscenses
+*   # Various Licenses
 
 *   # IANAL
 
 *   # Copy Right, Copy Center, Copy Left
 
-*   # Proprietary Liscesnse
+*   # Proprietary Licenses
 
 *   # Producer Protection
 
@@ -113,9 +118,9 @@
 
 *   # GPL
 
-*   # Other Liscenses
+*   # Other Licenses
 
-*   # Mozilla Public Liscense
+*   # Mozilla Public License
 
 *   # Apache
 
@@ -147,7 +152,7 @@
 
 *   # Some features aren't
 
-*   # Theme Customizor
+*   # Theme Customizer
 
 *   # One person reported the issue
 
@@ -155,7 +160,7 @@
 
 *   # AT User came in with ideas
 
-*   # 18 itterations later
+*   # 18 iterations later
 
 *   # It Works!
 
@@ -189,11 +194,13 @@
 
 *   # IRC
 
-*   # Core Chat:  #wordpress-dev 
+*   # irc.freenode.net
 
-*   # A11Y Chat: #wordpress-ui 
+*   # Core Chat:  #wordpress-dev Wednesdays @ 20:00 UTC 
 
-*   # Refresh, Update, Itterate
+*   # A11Y Chat: #wordpress-ui Wednesday at 19:00 UTC 
+
+*   # Refresh, Update, Iterate
 
 *   # http://codex.wordpress.org/Reporting_Bugs
 
@@ -201,13 +208,13 @@
 
 *   # Does the project have an A11Y group?
 
-*   # Most projects lack Accessability Experts
+*   # Most projects lack Accessibility Experts
 
-*   # WordPress Accessability
+*   # WordPress Accessibility
 
-*   # make.wordpress.org/accessebility
+*   # http://make.wordpress.org/accessibility/ 
 
-*   # Drupal Accessability 
+*   # Drupal Accessibility 
 
 *   # http://drupal.org/about/accessibility  
 
@@ -223,7 +230,7 @@
 
 *   # Why should we use Open Source?
 
-*   # No Costly Liscense
+*   # No Costly License
 
 *   # No Vendor Lock
 
@@ -239,19 +246,19 @@
 
 *   # Why should We open source our work
 
-*   # Cooperative vs. Competative
+*   # Cooperative vs. Competitive
 
 *   # Empowers the User
 
 *   # Force Multiplier
 
-*   # Is it our Core Buisness?
+*   # Is it our Core Business?
 
 *   # Twitter Bootstrap
 
 *   # Kafka
 
-*   # Is our core buisness actually our knowledge?
+*   # Is our core business actually our knowledge?
 
 *   # How can you create an open source project?
 
@@ -281,9 +288,9 @@
 
 *   # Plugins add functionality
 
-*   # Sometimes change slow / non-existant
+*   # Sometimes change slow / non-existent
 
-*   # Backwards Compatability
+*   # Backwards Compatibility
 
 *   # Technical Burden on behalf of Users
 
@@ -299,7 +306,7 @@
 
 *   # Producing Open Source Software by Karl Fogel <a href="http://www.amazon.com/gp/product/0596007590/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596007590&linkCode=as2&tag=aarojorb-20">Deadtree version</a><img src="http://www.assoc-amazon.com/e/ir?t=aarojorb-20&l=as2&o=1&a=0596007590" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-*   # In the presence of new information, good mainters change there minds often
+*   # In the presence of new information, good maintainers change there minds often
 
 *   # Not Just for Software
 
