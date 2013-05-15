@@ -332,4 +332,3 @@
     * http://drupal.org/node/394094
     * http://project-open-data.github.io/
     * https://github.com/benbalter/open-sourcing-government
-

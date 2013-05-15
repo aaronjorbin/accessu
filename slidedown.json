@@ -2,7 +2,8 @@
     "template" : "remies",
     "title": "Open Source Tools for Building Accessible Websites",
     "source": "readme.md",
-    "css": ["style.css"],
+    "css": ["style.css","toastr.css" ],
     "header": "header.html",
+    "footer": "footer.html",
     "ga": "UA-4410103-10"
 }
